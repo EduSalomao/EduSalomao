@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀  Eu sou um entusiasta apaixonado por desenvolvimento de software diretamente da Bahia, especializado em criar soluções incríveis utilizando as tecnologias mais modernas. Com experiência em desenvolvimento mobile front-end, concentro-me principalmente em React Native e TypeScript para criar aplicativos robustos e eficientes.</p>
+<p align="left">🚀  Eu sou um entusiasta apaixonado por desenvolvimento de software especializado em criar soluções incríveis utilizando as tecnologias mais modernas. Com experiência em desenvolvimento mobile front-end, concentro-me principalmente em React Native e TypeScript para criar aplicativos robustos e eficientes.</p>
 
 ###
 
