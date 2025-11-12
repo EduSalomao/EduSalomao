@@ -1,4 +1,4 @@
-<h2 align="left">Fala meu chegado, eu sou o Eduardo!👋</h2>
+<h2 align="left">Sou o Eduardo!👋</h2>
 
 ###
 
